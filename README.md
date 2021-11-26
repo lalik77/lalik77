@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi  there 👋
 
-- 🌱 I’m currently learning ...
+#### hi, i'm Alexander Mami, a passionate self taught  java developer from Russia. 
+
+-🔭 I’m currently searching for an intern job or a real time project to contribuate on it 
+- 🌱 Currently i'm deep dive learning Spring Security 
+
+
+💼   any freelance work? do reach, email :)
+
+
+Skills: Spring Framework / Java / HTML / CSS
+
 
 <!--
 **lalik77/lalik77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
