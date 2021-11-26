@@ -8,7 +8,7 @@
 ![Gif](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 
-💼 &nbsp; &nbsp; any freelance work? do reach, email :)
+💼 &nbsp; &nbsp; any freelance work? do reach, [email](mailto:lalik77@inbox.ru) :)
 
 
 Skills: Spring Framework / Java / HTML / CSS
@@ -25,6 +25,8 @@ Skills: Spring Framework / Java / HTML / CSS
 
 🚀 &nbsp; &nbsp; Frameworks<br/><br/>
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
 
 <!--
 **lalik77/lalik77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
