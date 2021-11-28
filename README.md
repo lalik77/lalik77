@@ -26,6 +26,12 @@ Skills: Spring Framework / Java / HTML / CSS
 🚀 &nbsp; &nbsp; Frameworks<br/><br/>
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradel](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+
+👨👩 &nbsp; &nbsp;&nbsp; &nbsp; Social<br/><br/>
+![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) &nbsp; &nbsp; [➡️](https://stackoverflow.com/users/12518452/lalik)
 
 
 <!--
