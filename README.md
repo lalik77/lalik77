@@ -3,7 +3,7 @@
 #### i'm a passionate java developer from Russia. 
 
 -🔭 I’m currently searching for a real time project to contribuate on it 
-- 🌱 Also now i'm lerning and focusing on Spring Security 
+- 🌱 Also now i'm learning and focusing on Spring Security and Design Patterns
 
 ![Gif](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
