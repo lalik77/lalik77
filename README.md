@@ -1,9 +1,9 @@
 ### Hi  there 👋
 
-#### i'm Alexander Mami, a passionate self taught  java developer from Russia. 
+#### i'm a passionate self taught  java developer from Russia. 
 
--🔭 I’m currently searching for an intern job or a real time project to contribuate on it 
-- 🌱 Currently i'm lerning and focusing on  Spring Security 
+-🔭 I’m currently searching for a real time project to contribuate on it 
+- 🌱 Also now i'm lerning and focusing on Spring Security 
 
 ![Gif](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
