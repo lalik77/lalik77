@@ -1,4 +1,4 @@
-### Hi  there 👋
+### Hey  there 👋
 
 #### i'm a passionate java developer from Russia. 
 
