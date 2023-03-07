@@ -1,6 +1,6 @@
 ### Hey  there 👋
 
-#### i'm a passionate java developer from Russia. 
+#### i'm a passionate java developer. 
 
 -🔭 I’m currently searching for a real time project to contribuate on it.
 - 🌱 Also now i'm learning and focusing on Spring Security, Design Patterns and Microservices Architecture.
